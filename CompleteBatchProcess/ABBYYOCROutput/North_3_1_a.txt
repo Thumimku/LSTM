@@ -1,0 +1,25 @@
+﻿Northway
+Family Mart
+Northway
+#184,Palaly Road
+Thirunelveli
+Tp: 0212226002
+CASHIER : A
+SALESMAN : 0
+UNIT : 2
+Invoice : 00000205
+Highland fresh choco milk180ml[4792094001518]
+20600096 (35.00 * 2.000) 70.00
+SUB TOTAL 70.00
+CASH 70.00
+BALANCE 0.00
+No of Items : 1
+No of Pcs 2.000
+Date : 27/03/2019
+Time : 05:24:36
+Thank You Come Again
+No cash refund
+for software info 0759667588
+System by Sarasa tel: 0117 455 400
+
+
